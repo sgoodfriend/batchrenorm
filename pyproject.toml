@@ -7,7 +7,7 @@ line-length = 79
 
 [tool.poetry]
 name = "batchrenorm"
-version = "0.1.0"
+version = "0.1.1"
 description = "Batch Renormalization"
 authors = ["Ludvig Bergenstråhle <jlbergenstrahle@gmail.com>"]
 license = "MIT"
